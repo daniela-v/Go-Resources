@@ -8,7 +8,7 @@
 6. [Structuring Applications for Growth](http://go-talks.appspot.com/github.com/benbjohnson/structuring-applications-for-growth/main.slide#1) - subtle way to use method expressions (interface type & struct with func members) to help create test doubles/mocks.
 7. [Structuring Tests in Go](https://medium.com/@benbjohnson/structuring-tests-in-go-46ddee7a25c?source=user_profile---------1-)
 8. [Go database/sql tutorial](http://go-database-sql.org/)
-9. [Learning X in Y Minutes Where X is Go] (http://learnxinyminutes.com/docs/go/)
+9. [Learning X in Y Minutes Where X is Go](http://learnxinyminutes.com/docs/go/)
 10. [Golang 101](https://www.youtube.com/playlist?list=PLEcwzBXTPUE9V1o8mZdC9tNnRZaTgI-1P)
 11. [Golang 201](https://www.youtube.com/playlist?list=PLEcwzBXTPUE_5m_JaMXmGEFgduH8EsuTs)
 12. [Golang 301](https://www.youtube.com/playlist?list=PLEcwzBXTPUE8KvXRFmmfPEUmKoy9LfmAf)
